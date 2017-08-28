@@ -3,10 +3,10 @@ Udacity Deep Learning Assignment Cheat
 
 
 ## Assignment 2
-'''
+```
  with graph.as_default():
  with tf.Session(graph=graph) as session:
-'''
+```
 
   * Linear Classification Model 1.
   * Linear Classification Model 2. Batch
