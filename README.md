@@ -2,21 +2,20 @@
 Udacity Deep Learning Assignment Cheat
 
 
-Assignment 2
-
+## Assignment 2
+'''
 with graph.as_default():
-
 with tf.Session(graph=graph) as session:
+'''
 
-  1. Linear Classification Model 1.
-  2. Linear Classification Model 2. Batch
-  3. 1 Hidden Layer (1024 Nodes) - ReLu Neural Network. 
+  * Linear Classification Model 1.
+  * Linear Classification Model 2. Batch
+  * 1 Hidden Layer (1024 Nodes) - ReLu Neural Network. 
 
-Assignment 3
-
-  Regularization
+## Assignment 3
+### Regularization
   
-  1. L2 regularization
-  2. Overfitting
-  3. Dropout
-  4. Learning Rate Decay 
+  * L2 regularization
+  * Overfitting
+  * Dropout
+  * Learning Rate Decay 
